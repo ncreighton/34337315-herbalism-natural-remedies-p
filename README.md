@@ -1,2 +1,45 @@
-# 34337315-herbalism-natural-remedies-p
-Tired of scrolling through dozens of herbalism websites only to find the same remedy priced 40% higher than somewhere else? Our Chrome extension instantly compares prices across top natural remedy retailers, so you always get the best deal without the hassle.  This tool solves the frustration of manual price hunting by aggregating live prices from
+# Herbalism & Natural Remedies Price Comparison and Deal Finder Chrome Extension
+
+> Extension for Herbalism
+
+Tired of scrolling through dozens of herbalism websites only to find the same remedy priced 40% higher than somewhere else? Our Chrome extension instantly compares prices across top natural remedy retailers, so you always get the best deal without the hassle.
+
+This tool solves the frustration of manual price hunting by aggregating live prices...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://journalscribe7.gumroad.com/l/gwyhen)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/eVq00j8v50bW1de8nGcZr2A)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://journalscribe7.gumroad.com/l/gwyhen)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
