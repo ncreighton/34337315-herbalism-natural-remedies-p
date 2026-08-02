@@ -24,8 +24,6 @@ This tool solves the frustration of manual price hunting by aggregating live pri
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://journalscribe7.gumroad.com/l/gwyhen)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/eVq00j8v50bW1de8nGcZr2A)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://journalscribe7.gumroad.com/l/gwyhen)
 
 ## License
 
